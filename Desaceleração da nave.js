@@ -1,3 +1,4 @@
+//Programa que desacelra uma nave utilizando Function(JS)
 let velocity = 150
 let desaceleration = 20
 
